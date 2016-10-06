@@ -1,1 +1,1 @@
-# CSE6010
+This repository holds all collaborative CSE6010 projects.
